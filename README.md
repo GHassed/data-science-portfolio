@@ -14,4 +14,4 @@ This portfolio presents a collection of data science projects for the demonstrat
 - Comprehensive machine learning model of Breast Cancer dataset for predictive analysis.
   
 ### [Classical Stock Trading](Classical_Stock_Trading.ipynb)
-- Empirical test of a popular stock trading strategy using a representative sample of securities from the ASX200
+- Empirical test of a popular stock trading strategy using a representative sample of securities from the ASX200.
