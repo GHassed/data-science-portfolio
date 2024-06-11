@@ -10,7 +10,7 @@ This portfolio presents a collection of data science projects for the demonstrat
 
 ## Content
 
-### [Breast Cancer](BC_Exploration.ipynb)
+### [Breast Cancer](Breast_Cancer_Exploration.ipynb)
 - Comprehensive machine learning model of Breast Cancer dataset for predictive analysis.
   
 ### [Classical Stock Trading](Classical_Stock_Trading.ipynb)
